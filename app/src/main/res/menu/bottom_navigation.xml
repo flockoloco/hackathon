@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/AnvilFragment"
+        android:title="@string/Anvil"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_arrow_left_24"/>
+
+    <item
+        android:id="@+id/MineFragment"
+        android:title="@string/Mine"
+        android:enabled="true"
+        android:icon="@drawable/ic_baseline_arrow_left_24"/>
+
+</menu>
